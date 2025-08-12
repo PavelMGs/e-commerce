@@ -95,7 +95,7 @@ const Category = () => {
             </Text>
           </Box>
 
-          <Flex align="center" gap={4} mt={{ base: 4, lg: 0 }}>
+          <Flex align="center" flexWrap="wrap" gap={4} mt={{ base: 4, lg: 0 }}>
             <HStack bg="bg.hover" borderRadius="lg" p={1}>
               <IconButton
                 size="sm"
