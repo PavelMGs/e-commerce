@@ -1,0 +1,1 @@
+export const CATEGORIES = [{ label: "Smartpones", link: "/smartphones" }, { label: "Laptops", link: "/laptops" }, { label: "Tablets", link: "/tablets" }, { label: "Accessories", link: "/accessories" }];
